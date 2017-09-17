@@ -21,6 +21,6 @@ Limitations:
 Only the data in the sheet is preserved; any formulas are lost.
 
 Used carefully, this code will keep data safe from a casual viewer. Although the encryption
-itself is strong, the process of moving and stroing data in the cloud can be expolited by a 
+itself is strong, the process of moving and storing data in the cloud can be exploited by a 
 determined adversary. In particular, you should ensure that no plaintext is shown in the 
 version history of the spreadsheet.
